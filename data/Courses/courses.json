@@ -12,8 +12,8 @@
         "price": 100,
         "ratings": 5,
         "age": "15-20",
-        "info": "it wil help everone to ",
-        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-09.jpg"
+        "info": "Machine Learning Not only does it offer a remunerative career, it promises to solve problems and also  benefit companies by making predictions and helping them make better decisions .Advantages of Machine learning Course ,1. Easily identifies trends and patterns2. No human intervention needed (automation)  ",
+        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-20.jpg"
     },
     {
         "id": "635850e1ba0e7613c2389fcf",
@@ -28,7 +28,7 @@
         "price": 100,
         "ratings": 5,
         "age": "15-20",
-        "info": "it wil help everone to ",
+        "info": "Adobe Photoshop is an essential tool for many people within their roles. From attention-grabbing blog images to engaging social media graphics, there are countless ways the software can make a hugely positive impact on your businessYou know how important marketing materials are for supporting your company's message. However, timewise and from a financial perspective outsourcing them can be an unnecessary expense. Paying to attend a Photoshop course; allows you to save money and time as well as regain creative control over the messages you’re sending out to the public. ",
         "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-03.jpg"
     },
     {
@@ -44,7 +44,7 @@
         "price": 100,
         "ratings": 5,
         "age": "15-20",
-        "info": "it wil help everone to ",
+        "info": "Regardless of what your job is, or what you want your job to be, we’ve got a few reasons why you should learn HTML and CSS.These powerful coding languages are not only helpful to web developers, and you just might find yourself in a position where you may need them in a professional setting, too. Having even just a basic knowledge of these languages could make a huge impact on you (and your resume!) ",
         "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-04.jpg"
     },
     {
@@ -60,7 +60,7 @@
         "price": 100,
         "ratings": 5,
         "age": "15-20",
-        "info": "it wil help everone to ",
+        "info": "Picture this: you’re an IT project manager that is reliable, conscientious and brings the best out of the people you’re leading. The problem is that your lack of IT technical skills are holding you back – you might struggle to communicate with your developers because you don’t know how to programme, or perhaps you want to understand the emerging tech trends to inspire your team to explore new projects but don’t know where to start.",
         "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-02.jpg"
     },
     {
@@ -76,7 +76,7 @@
         "price": 100,
         "ratings": 5,
         "age": "15-20",
-        "info": "it wil help everone to ",
+        "info": "Should I learn WordPress development? – This is probably the most frequently asked question among beginners who have just started using the WordPress CMS and want to get into web design.WordPress as a CMS has made rapid strides in its 18-year long journey and from being just a blogging platform, it has metamorphosed into a robust content management system and DIY web design tool that powers over 34% of websites on the Internet right now.1",
         "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-05.jpg"
     },
     {
@@ -92,7 +92,39 @@
         "price": 100,
         "ratings": 5,
         "age": "15-20",
-        "info": "it wil help everone to ",
+        "info": "Compared to other programming languages, PHP is a relatively easy to learn and straightforward language. Even if you are a complete novice in programming, picking up PHP is manageable. One of its perks is that you do not need to memorise and spend precious time studying the manual. A whole web page will develop just a single PHP file.",
         "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-06.jpg"
+    },
+    {
+        "id": "635850e10a7deddade091c6d",
+        "category_id": "01",
+        "title": "Robotics With Python",
+        "category": "Python",
+        "instructor": {
+            "name": "Andy",
+            "profile": "https://eduvibe.react.devsvibe.com/images/instructor/instructor-01/instructor-7.jpg"
+        },
+        "duration": 20,
+        "price": 100,
+        "ratings": 5,
+        "age": "15-20",
+        "info": "Technology is changing and expanding day by day. Also, it is changing the way people do their work. Robotics is one of the technologies which are changing the world’s industrial scenario. It raises a valid point of discussion to schools, what are they doing to prepare our next generation for the future? Well, most of the institutions are doing their part and introducing new teaching methods, tools and curriculum which will help children in their after school life.  ",
+        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-07.jpg"
+    },
+    {
+        "id": "635850e10a7deddade091c6e",
+        "category_id": "06",
+        "title": " Development with Python",
+        "category": "Web Development",
+        "instructor": {
+            "name": "Ricky",
+            "profile": "https://eduvibe.react.devsvibe.com/images/instructor/instructor-01/instructor-8.jpg"
+        },
+        "duration": 20,
+        "price": 100,
+        "ratings": 5,
+        "age": "15-20",
+        "info": "Python’s popularity has to do with the various benefits it offers, like the simplicity and elegance that attract big companies including Dropbox, Instagram, and Spotify. However, while there are many advantages to using Python for web development, there are also a few pitfalls. Let’s check them out.",
+        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-08.jpg"
     }
 ]
