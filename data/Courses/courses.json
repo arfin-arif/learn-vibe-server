@@ -1,0 +1,98 @@
+[
+    {
+        "id": "635850e16de7b06117859712",
+        "category_id": "01",
+        "title": "Machine Learning A-Z",
+        "category": "Python",
+        "instructor": {
+            "name": "Alison",
+            "profile": "https://eduvibe.react.devsvibe.com/images/instructor/instructor-01/instructor-1.jpg"
+        },
+        "duration": 20,
+        "price": 100,
+        "ratings": 5,
+        "age": "15-20",
+        "info": "it wil help everone to ",
+        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-09.jpg"
+    },
+    {
+        "id": "635850e1ba0e7613c2389fcf",
+        "category_id": "03",
+        "title": "Enhancing Adobe Photoshop Skills",
+        "category": "Creative",
+        "instructor": {
+            "name": "John Smith",
+            "profile": "https://eduvibe.react.devsvibe.com/images/instructor/instructor-01/instructor-3.jpg"
+        },
+        "duration": 20,
+        "price": 100,
+        "ratings": 5,
+        "age": "15-20",
+        "info": "it wil help everone to ",
+        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-03.jpg"
+    },
+    {
+        "id": "635850e11e4f4a379c189b28",
+        "category_id": "04",
+        "title": "HTML, CSS, and Javascript",
+        "category": "JavaScript",
+        "instructor": {
+            "name": "Nancy",
+            "profile": "https://eduvibe.react.devsvibe.com/images/instructor/instructor-01/instructor-4.jpg"
+        },
+        "duration": 20,
+        "price": 100,
+        "ratings": 5,
+        "age": "15-20",
+        "info": "it wil help everone to ",
+        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-04.jpg"
+    },
+    {
+        "id": "635850e1759ecb4a0df54016",
+        "category_id": "02",
+        "title": "Basic Fundamentals for Software Engineering",
+        "category": "Engineering",
+        "instructor": {
+            "name": "Marry",
+            "profile": "https://eduvibe.react.devsvibe.com/images/instructor/instructor-01/instructor-2.jpg"
+        },
+        "duration": 20,
+        "price": 100,
+        "ratings": 5,
+        "age": "15-20",
+        "info": "it wil help everone to ",
+        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-02.jpg"
+    },
+    {
+        "id": "635850e1e552bcfeef2687ad",
+        "category_id": "05",
+        "title": "Introducing to Programming with WordPress",
+        "category": "Programming",
+        "instructor": {
+            "name": "Rocky",
+            "profile": "https://eduvibe.react.devsvibe.com/images/instructor/instructor-01/instructor-5.jpg"
+        },
+        "duration": 20,
+        "price": 100,
+        "ratings": 5,
+        "age": "15-20",
+        "info": "it wil help everone to ",
+        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-05.jpg"
+    },
+    {
+        "id": "635850e10a7deddade091c6c",
+        "category_id": "06",
+        "title": "Back End  Development with PHP",
+        "category": "Web Development",
+        "instructor": {
+            "name": "Lisa",
+            "profile": "https://eduvibe.react.devsvibe.com/images/instructor/instructor-01/instructor-6.jpg"
+        },
+        "duration": 20,
+        "price": 100,
+        "ratings": 5,
+        "age": "15-20",
+        "info": "it wil help everone to ",
+        "cover": "https://eduvibe.react.devsvibe.com/images/course/course-details/course-06.jpg"
+    }
+]
